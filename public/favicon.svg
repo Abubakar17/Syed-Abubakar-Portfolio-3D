@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Syed Muhammad Abubakar">
+  <rect width="64" height="64" rx="14" fill="#050608"/>
+  <rect x="12.5" y="12.5" width="39" height="39" rx="6" fill="none" stroke="#6aa8ff" stroke-width="2.4" stroke-dasharray="10 19" stroke-dashoffset="5"/>
+  <path d="M22 41V23h6.2l4 11.3L36.4 23H42v18h-4.2V29.7L33.7 41h-3.2l-4.2-11.2V41H22Z" fill="#f7f8fb"/>
+</svg>
