@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
-export default defineConfig(({ command, isPreview }) => ({
+export default defineConfig({
   base: '/',
   plugins: [react()],
   build: {
@@ -16,4 +16,4 @@ export default defineConfig(({ command, isPreview }) => ({
       },
     },
   },
-}))
+})
